@@ -45,6 +45,8 @@ Query
 
 2.//tite
 
+Result
+
 <title>A Dance with Dragons</title>
 
 <title>Snow Crash</title>
@@ -52,6 +54,10 @@ Query
 <title>Burning Tower</title>
 
 <title>Zodiac</title>
+
+3.
+
+
 
 
 
