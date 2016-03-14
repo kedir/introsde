@@ -1,0 +1,5 @@
+an example to show XML 
+
+1. /bookstore/book[1]/publisher
+<publisher>Voyager Books</publisher>
+2.
